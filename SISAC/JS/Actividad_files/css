@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Artifika';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Artifika Medium'), local('Artifika-Medium'), url(http://themes.googleusercontent.com/static/fonts/artifika/v4/r0NXNnpds-Akyno8nTG0zfesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Audiowide';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Audiowide'), local('Audiowide-Regular'), url(http://themes.googleusercontent.com/static/fonts/audiowide/v2/8XtYtNKEyyZh481XVWfVOj8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 400;
+  src: local('MontserratAlternates-Regular'), url(http://themes.googleusercontent.com/static/fonts/montserratalternates/v2/z2n1Sjxk9souK3HCtdHukiVz4wwEV01Tv2kxNh88JXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 700;
+  src: local('MontserratAlternates-Bold'), url(http://themes.googleusercontent.com/static/fonts/montserratalternates/v2/YENqOGAVzwIHjYNjmKuAZgHIHA8NZDzxmj0AXZzWWdj3rGVtsTkPsbDajuO5ueQw.woff) format('woff');
+}
